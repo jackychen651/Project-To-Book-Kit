@@ -125,3 +125,13 @@ generated-books/my-project-book/
 
 如果你想更稳一点，就分阶段执行 `prompts/` 里的文件。
 
+## 声明
+
+本项目仅用于教育学习目的。代码由AI生成。
+
+## 致谢
+
+灵感来源与该项目[claude-code-complete-guide](https://github.com/bcefghj/claude-code-complete-guide)
+
+## LICENSE
+MIT

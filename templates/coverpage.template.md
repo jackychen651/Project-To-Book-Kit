@@ -1,0 +1,10 @@
+# {{BOOK_TITLE}}
+
+> {{BOOK_SUBTITLE}}
+
+- {{HIGHLIGHT_1}}
+- {{HIGHLIGHT_2}}
+- {{HIGHLIGHT_3}}
+
+[开始阅读](README.md)
+

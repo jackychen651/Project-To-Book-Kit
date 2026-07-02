@@ -1,0 +1,73 @@
+{
+  "project_name": "",
+  "book_title": "",
+  "repo_path": "",
+  "generated_at": "",
+  "summary": "",
+  "repo_type": "",
+  "primary_language": "",
+  "secondary_languages": [],
+  "estimated_scale": {
+    "source_file_count": 0,
+    "estimated_loc": 0,
+    "size_tier": "",
+    "complexity_tier": ""
+  },
+  "audience": {
+    "primary": "",
+    "prerequisites": [],
+    "non_goals": []
+  },
+  "entrypoints": [
+    {
+      "path": "",
+      "kind": "",
+      "reason": ""
+    }
+  ],
+  "run_commands": [
+    {
+      "command": "",
+      "purpose": "",
+      "confidence": ""
+    }
+  ],
+  "key_directories": [
+    {
+      "path": "",
+      "purpose": "",
+      "priority": ""
+    }
+  ],
+  "core_flows": [
+    {
+      "name": "",
+      "start": "",
+      "end": "",
+      "key_files": []
+    }
+  ],
+  "systems": [
+    {
+      "name": "",
+      "why_it_matters": "",
+      "key_files": [],
+      "teaching_order": 1
+    }
+  ],
+  "risks_and_unknowns": [
+    {
+      "topic": "",
+      "status": "",
+      "note": ""
+    }
+  ],
+  "glossary_seeds": [],
+  "book_recommendation": {
+    "parts": 0,
+    "chapters": 0,
+    "recommended_taxonomy": [],
+    "notes": ""
+  }
+}
+

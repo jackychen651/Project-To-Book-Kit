@@ -1,0 +1,36 @@
+{
+  "book_title": "",
+  "output_language": "zh-CN",
+  "target_audience": "",
+  "size_strategy": "",
+  "ordering_principle": "先大图景，再主流程，再模块深挖，最后亮点与扩展",
+  "parts": [
+    {
+      "id": "part01-basics",
+      "title": "",
+      "goal": "",
+      "difficulty": "",
+      "why_this_part_exists": "",
+      "chapters": [
+        {
+          "order": "01",
+          "slug": "",
+          "title": "",
+          "teaching_question": "",
+          "key_files": [],
+          "prerequisites": [],
+          "estimated_length": ""
+        }
+      ]
+    }
+  ],
+  "appendix": {
+    "include_source_index": true,
+    "include_glossary": true,
+    "include_further_reading": true
+  },
+  "coverage_rules": [
+    ""
+  ]
+}
+
